@@ -1,0 +1,1 @@
+{{$json["kod_icerigi"]}}
